@@ -1,0 +1,34 @@
+{
+  "name": "ghostynw",
+  "version": "0.0.1",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Leqend",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.0",
+    "db": "^3.3.0",
+    "dctr-antispam.js": "^0.1.1",
+    "discord.js": "^12.5.1",
+    "express": "^4.17.1",
+    "fs": "^0.0.1-security",
+    "gamedig": "^2.0.23",
+    "http": "0.0.1-security",
+    "jimp": "^0.16.1",
+    "moment": "^2.29.1",
+    "moment-duration-format": "^2.3.2",
+    "ms": "^2.1.3",
+    "parse-ms": "^2.1.0",
+    "quick.db": "^7.1.3",
+    "quick.hook": "^1.5.1",
+    "request": "^2.88.2",
+    "simple-youtube-api": "^5.2.1",
+    "snekfetch": "^4.0.4",
+    "wio.db": "^4.0.9",
+    "ws": "^7.4.1",
+    "ytdl-core": "^4.2.1"
+  }
+}
